@@ -1,4 +1,4 @@
-# :garlic::baguette_bread: [Vixenin PS: I eat the Galirc Bread](https://linktr.ee/Vixenin)
+# :garlic::baguette_bread: [Vixenin #Galirc_Bread_Enjoyer](https://linktr.ee/Vixenin)
 
 **`Digital Sorceress (Developer/Digital Artist/Creator)`**
 
