@@ -2,7 +2,7 @@
 
 **`Digital Sorceress (Developer/Digital Artist/Creator)`**
 
-I'm an indie game developer, digital artist, and content creator, making my own way through the digital world one digital magic spell at a time. All of my coding projects and artworks are made out of passion and as a hobby. Ocasionaly I stream on my twitch "[vixeninree](https://www.twitch.tv/vixeninree)" 
+I'm an indie game developer, digital artist, and content creator, making my own way through the digital world one digital magic spell at a time. All of my coding projects and artworks are made out of passion and as a hobby. Ocasionaly I stream on my twitch [Vixeninree](https://www.twitch.tv/vixeninree)
 
 ![Vixenin's GitHub stats](https://github-readme-stats.vercel.app/api?username=vixenin&theme=tokyonight&show_icons=true)
 
