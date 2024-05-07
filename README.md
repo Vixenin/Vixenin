@@ -1,16 +1,15 @@
-### Hi there 👋
+# 🦊 Vixenin
 
-<!--
-**Vixenin/Vixenin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Digital Sorceress (Developer/Digital Artist/Creator)`**
 
-Here are some ideas to get you started:
+I'm an indie game developer, digital artist, and content creator, making my own way through the digital world one digital magic spell at a time. All of my coding projects and artworks are made out of passion and as a hobby. Ocasionaly I stream on my twitch "[vixeninree][twitch]" 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Vixenin's GitHub stats](https://github-readme-stats.vercel.app/api?username=vixenin&show_icons=true&theme=radical)]
+
+---
+
+### Languages Scoreboard
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vixenin&layout=compact&theme=radical)]
+
+#
