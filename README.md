@@ -1,4 +1,4 @@
-# :baguette_bread: [Vixenin](https://linktr.ee/Vixenin)
+# :garlic: :baguette_bread: [Vixenin](https://linktr.ee/Vixenin)
 
 **`Digital Sorceress (Developer/Digital Artist/Creator)`**
 
