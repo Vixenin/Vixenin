@@ -1,4 +1,4 @@
-# :shark: [Vixenin](https://linktr.ee/Vixenin)
+# :baguette_bread: [Vixenin](https://linktr.ee/Vixenin)
 
 **`Digital Sorceress (Developer/Digital Artist/Creator)`**
 
