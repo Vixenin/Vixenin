@@ -1,4 +1,4 @@
-# 🦈: [Vixenin](https://linktr.ee/Vixenin)
+# :shark: [Vixenin](https://linktr.ee/Vixenin)
 
 **`Digital Sorceress (Developer/Digital Artist/Creator)`**
 
